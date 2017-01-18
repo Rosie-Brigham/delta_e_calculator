@@ -1,0 +1,11 @@
+{
+  "name": "lab_calculator",
+  "version": "1.0.0",
+  "description": "for calculations of delta e colour differences between a whole load of given LAB measurements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rosie-brigham",
+  "license": "ISC"
+}
